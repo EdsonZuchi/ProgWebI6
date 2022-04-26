@@ -1,0 +1,86 @@
+img.cab{
+    display: block;
+    width: 150px;
+    margin-left: 25px;
+}
+
+nav{
+    display: block;
+    background-color: greenyellow; 
+    border: 1px solid black;
+}
+
+hr{
+    margin-bottom: 0px;
+}
+
+#baixo{
+    margin: 0px;
+}
+
+button{
+    display: inline;
+    padding: 1px;
+    size: 10px;
+    font-size: 14px;
+    margin-right: 5px;
+    margin-top: 8px;
+    margin-left: 20px;
+    width: 200px;
+    justify-content: center;
+    align-items: center;
+}
+
+.quadrado{
+    height: 477px;
+    background-color: wheat;
+    text-align: justify;
+}
+
+.vm{
+    display: inline-block;
+    width: 20vw;
+    
+}
+
+.vd{
+    display: inline-block;
+    width: 58vw;
+    background-image: url(/Aula5/Atividade/img/estudo.jpg); 
+    background-size: 100% 100%;
+}
+
+.az{
+    display: inline-block;
+    width: 20vw;
+}
+
+footer{
+    display: block;
+    background-color: rgb(119, 119, 119); 
+    border: 1px solid black;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+h3{
+    color: white;
+    font-weight: bold;
+    font-size: 21px;
+}
+
+.footer{
+    margin-top: 30px;
+    width: 170px;
+    margin-bottom: 30px;
+}
+
+h4{
+    color: white;
+}
+
+h5{
+    text-align: start;
+    color: white;
+    font-weight: bold;
+}
