@@ -1,0 +1,132 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@300&family=Roboto+Mono:wght@100&display=swap');
+
+nav{
+    display: inline-block;
+    width: 100vw;
+    height: 50px;
+    background-color: #FF6600;
+}
+
+#insta{
+    display: flex;
+    width: 7%;
+    height: 7%;
+    margin-left: 21px;
+    margin-top: 7px;
+    margin-bottom: 4px;  
+}
+
+.top{
+    display: inline-flex;
+    width: 100vw;
+    height: 100px;
+    background-color: #666666; 
+}
+
+#logo{
+    margin-left: 20px;
+    margin-top: 25px;
+    margin-bottom: 20px;  
+}
+
+.btops{
+    margin-top: 40px;
+    margin-left: 50px;
+    align-items: center;
+    font-family: 'Nunito', sans-serif;
+    font-size: 21px;
+    color: white;
+    font-weight: bold;
+}
+
+.btops:hover{
+    color: #FF6600;
+}
+
+.ctops{
+    margin-top: 25px;
+    margin-left: 120px;
+    align-items: center;
+    font-family: 'Nunito', sans-serif;
+    font-size: 21px;
+    color: black;
+    font-weight: bold;
+    background-color: white;
+    width: 80%;
+    height: 50%;
+    border-radius: 10px;
+}
+
+.ctops:hover{
+    background-color: #FF6600;
+}
+
+.atops{
+    margin-top: 25px;
+    margin-left: 100px;
+    align-items: center;
+    font-family: 'Nunito', sans-serif;
+    font-size: 21px;
+    color: white;
+    font-weight: bold;
+    background-color: #FF6600;
+    width: 80%;
+    height: 50%;
+    border-radius: 10px;
+}
+
+.principal{
+    display: inline-flex;
+    height: 100vh;
+    width: 100vw;
+    background-color: white;
+}
+
+.esquerda{
+    width: 25%;
+}
+
+h1{
+    margin-top: 100px;
+    margin-left: 90px; 
+    font-family: 'Nunito', sans-serif;
+    color: black;
+    font-weight: bold;
+    font-size: 21px;    
+}
+
+h2{
+    margin-top: 20px;
+    margin-left: 125px;
+    font-family: 'Nunito', sans-serif;
+    color: black;
+    font-weight: bold;
+    font-size: 21px;   
+}
+
+ol{
+    margin-top: 20px;
+    margin-left: 40px;
+    font-family: 'Nunito', sans-serif;
+    color: black;
+    font-weight: bold;
+}
+
+.meio{
+    display: inline-flex;
+    width: 50%;
+    background-image: url(/Teste/SiteDkiros/img/dkiros.png);
+    background-size: 100% 100%; 
+}
+
+.direita{
+    width: 25%;
+}
+
+footer{
+    display: block;
+    height: 100px;
+    background-color: rgb(119, 119, 119); 
+    text-align: center;
+}
+
