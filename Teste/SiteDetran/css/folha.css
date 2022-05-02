@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200&family=Roboto+Mono:wght@100&display=swap');
+
+.back{
+    display: inline-block;
+    width: 100vw;
+    height: 100vw;
+    background-color: #adc0b4;
+}
+
+.white{
+    display: inline-block;
+    width: 60vw;
+    height: 100vw;
+    background-color: white;
+    margin: 20vw;
+    margin-top: 50px;
+}
+
+#topo{
+    display: inline;
+    width: 60vw;
+    height: 200px;
+    margin-right: 50px;
+}
+
+.text{
+    text-align: center;
+    font-family: 'Oswald', sans-serif;
+    font-size: 25px;
+    
+}
